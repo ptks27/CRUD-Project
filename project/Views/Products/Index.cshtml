@@ -1,0 +1,218 @@
+﻿@model IEnumerable<project.Models.product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@{
+    int totalPages = (int)ViewData["TotalPages"];
+    int currentPage = (int)ViewData["CurrentPage"];
+}
+
+
+<br />
+<h1>
+    Product
+</h1>
+<hr />
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">New Product</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Brand)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th style="text-align:center">
+                Stock
+            </th>
+            <th style="text-align:center">
+                Images
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreateAt)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Brand)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category)
+            </td>
+             <td>
+                 @Html.DisplayFor(modelItem => item.Price) ฿
+             </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+                <td style="text-align:center">
+                    @Html.DisplayFor(modelItem => item.Stock)
+                </td>
+                <td style="text-align:center">
+                    <a href="#" class="image-link" data-image-url="@Url.Content("~/projectpig/" + item.ImageFileName)">
+                        <img src="@Url.Content("~/projectpig/" + item.ImageFileName)" width="100" />
+                    </a>
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreateAt)
+            </td>
+                <td>
+                    <a class="btn btn-primary btn-sm small-btn" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                    <a class="btn btn-success btn-sm small-btn" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                    <a class="btn btn-danger btn-sm small-btn" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+
+
+
+                <style>
+                    .table {
+                        width: 110%; 
+                        table-layout: fixed;
+                        margin: auto;
+                    }
+
+                    
+
+                    .small-btn {
+                        font-size: 12px; 
+                        padding: 5px 3px; 
+                    }
+                    .h1 {
+                        font-weight:bold
+                    }
+                    
+                </style>
+        </tr>
+}
+    </tbody>
+</table>
+
+<script>
+    document.querySelectorAll('.image-link').forEach(function (link) {
+        link.addEventListener('click', function (event) {
+            event.preventDefault();
+            var imageUrl = this.getAttribute('data-image-url');
+            var modal = document.createElement('div');
+            modal.classList.add('modal');
+            modal.innerHTML = '<div class="modal-content"><span class="close">&times;</span><img src="' + imageUrl + '" class="modal-image"></div>';
+            document.body.appendChild(modal);
+
+            var closeButton = modal.querySelector('.close');
+            closeButton.addEventListener('click', function () {
+                document.body.removeChild(modal);
+            });
+        });
+    });
+</script>
+
+<style>
+    .modal {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: fixed;
+        z-index: 9999;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.7);
+    }
+
+    .modal-content {
+        position: relative;
+        padding: 20px;
+        background-color: #fff;
+        max-width: 25%;
+        max-height: 50%;
+        overflow: auto;
+    }
+
+    .close {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        cursor: pointer;
+        font-size:50px
+    }
+
+    .modal-image {
+        max-width: 90%;
+        max-height: 40%;
+        object-fit: contain;
+    }
+    h1 {
+        font-family: "Play", sans-serif;
+        font-weight: 400;
+        font-size: 45px;
+
+    }
+    .table {
+        font-family: "Play", sans-serif;
+        
+
+    }
+
+    .pagination-button {
+        background-color: teal;
+        color: white;
+        padding: 5px 10px;
+        text-decoration: none;
+        border-radius: 3px;
+    }
+
+        .pagination-button:hover {
+            background-color: darkcyan;
+        }
+</style>
+
+@if (totalPages > 1)
+{
+    <div>
+        @if (currentPage > 1)
+        {
+            <a href="@Url.Action("Index", new { page = currentPage - 1 })" class="pagination-button">Previous</a>
+        }
+
+        @for (int i = 1; i <= totalPages; i++)
+        {
+            <span>@i</span> <!-- แสดงหมายเลขหน้า -->
+            @if (i < totalPages)
+            {
+                <span> | </span> <!-- แสดงเครื่องหมาย | ระหว่างหมายเลขหน้า -->
+            }
+        }
+
+        @if (currentPage < totalPages)
+        {
+            <a href="@Url.Action("Index", new { page = currentPage + 1 })" class="pagination-button">Next</a>
+        }
+    </div>
+}

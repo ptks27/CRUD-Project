@@ -1,0 +1,449 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\project.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\1.png",
+      "PackagePath": "staticwebassets\\projectpig\\1.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\10.png",
+      "PackagePath": "staticwebassets\\projectpig\\10.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\11.png",
+      "PackagePath": "staticwebassets\\projectpig\\11.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\12.png",
+      "PackagePath": "staticwebassets\\projectpig\\12.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\13.png",
+      "PackagePath": "staticwebassets\\projectpig\\13.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\14.png",
+      "PackagePath": "staticwebassets\\projectpig\\14.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\15.png",
+      "PackagePath": "staticwebassets\\projectpig\\15.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\16.png",
+      "PackagePath": "staticwebassets\\projectpig\\16.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\17.png",
+      "PackagePath": "staticwebassets\\projectpig\\17.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\18.png",
+      "PackagePath": "staticwebassets\\projectpig\\18.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\19.png",
+      "PackagePath": "staticwebassets\\projectpig\\19.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\2.png",
+      "PackagePath": "staticwebassets\\projectpig\\2.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\20.png",
+      "PackagePath": "staticwebassets\\projectpig\\20.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\21.png",
+      "PackagePath": "staticwebassets\\projectpig\\21.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\22.png",
+      "PackagePath": "staticwebassets\\projectpig\\22.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\23.png",
+      "PackagePath": "staticwebassets\\projectpig\\23.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\24.png",
+      "PackagePath": "staticwebassets\\projectpig\\24.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\25.png",
+      "PackagePath": "staticwebassets\\projectpig\\25.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\26.png",
+      "PackagePath": "staticwebassets\\projectpig\\26.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\27.png",
+      "PackagePath": "staticwebassets\\projectpig\\27.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\28.png",
+      "PackagePath": "staticwebassets\\projectpig\\28.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\29.png",
+      "PackagePath": "staticwebassets\\projectpig\\29.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\3.png",
+      "PackagePath": "staticwebassets\\projectpig\\3.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\30.png",
+      "PackagePath": "staticwebassets\\projectpig\\30.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\31.png",
+      "PackagePath": "staticwebassets\\projectpig\\31.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\32.png",
+      "PackagePath": "staticwebassets\\projectpig\\32.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\33.png",
+      "PackagePath": "staticwebassets\\projectpig\\33.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\34.png",
+      "PackagePath": "staticwebassets\\projectpig\\34.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\35.png",
+      "PackagePath": "staticwebassets\\projectpig\\35.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\36.png",
+      "PackagePath": "staticwebassets\\projectpig\\36.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\37.png",
+      "PackagePath": "staticwebassets\\projectpig\\37.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\38.png",
+      "PackagePath": "staticwebassets\\projectpig\\38.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\39.png",
+      "PackagePath": "staticwebassets\\projectpig\\39.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\4.png",
+      "PackagePath": "staticwebassets\\projectpig\\4.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\40.png",
+      "PackagePath": "staticwebassets\\projectpig\\40.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\5.png",
+      "PackagePath": "staticwebassets\\projectpig\\5.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\6.png",
+      "PackagePath": "staticwebassets\\projectpig\\6.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\7.png",
+      "PackagePath": "staticwebassets\\projectpig\\7.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\8.png",
+      "PackagePath": "staticwebassets\\projectpig\\8.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\9.png",
+      "PackagePath": "staticwebassets\\projectpig\\9.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\creator.png",
+      "PackagePath": "staticwebassets\\projectpig\\creator.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\home.png",
+      "PackagePath": "staticwebassets\\projectpig\\home.png"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\pd1.jpeg",
+      "PackagePath": "staticwebassets\\projectpig\\pd1.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\pd2.jpg",
+      "PackagePath": "staticwebassets\\projectpig\\pd2.jpg"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\pd3.jpg",
+      "PackagePath": "staticwebassets\\projectpig\\pd3.jpg"
+    },
+    {
+      "Id": "c:\\Users\\user\\Desktop\\project\\project\\project\\wwwroot\\projectpig\\pd4.jpg",
+      "PackagePath": "staticwebassets\\projectpig\\pd4.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.project.props",
+      "PackagePath": "build\\project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.project.props",
+      "PackagePath": "buildMultiTargeting\\project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.project.props",
+      "PackagePath": "buildTransitive\\project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
